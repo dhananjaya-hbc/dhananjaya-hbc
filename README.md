@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhananjaya001
+- 👋 Hi, I’m Dhananjaya
 - 👀 I’m interested in new technologies and robotics science
 - 🌱 I’m an undergraduate student in  IT
 
