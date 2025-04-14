@@ -51,9 +51,11 @@
 
 ---
 
-### 📈 Contribution Graph
+### ✨ Contribution Graph
 
-[![Dhananjaya001's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dhananjaya001&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhananjaya001&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
 
 ---
@@ -61,11 +63,11 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/chamoddhananjaya" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/chamoddhananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://medium.com/@your-medium-username" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="https://medium.com/@your-medium" target="_blank">
+    <img src="https://medium.com/@dhananjayachamod0754" alt="Medium"/>
   </a>
 </p>
+
