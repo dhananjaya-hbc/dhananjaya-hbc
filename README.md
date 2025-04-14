@@ -66,8 +66,8 @@
   <a href="https://linkedin.com/in/chamoddhananjaya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@your-medium" target="_blank">
-    <img src="https://medium.com/@dhananjayachamod0754" alt="Medium"/>
+  <a href="https://medium.com/@dhananjayachamod0754" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
