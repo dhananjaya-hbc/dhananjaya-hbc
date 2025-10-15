@@ -43,14 +43,6 @@
 
 ---
 
-### ⚡ My GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/dhananjaya-hbc?theme=tokyonight&base=header,activity,community,repositories,metadata&base.indepth=true&lines=true&habits=true&streak=true" />
-</p>
-
----
-
 ### ✨ Contribution Graph
 
 <p align="center">
