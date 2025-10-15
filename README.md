@@ -46,7 +46,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhananjaya-hbc&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=dhananjaya-hbc&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
