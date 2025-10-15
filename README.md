@@ -46,7 +46,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=dhananjaya-hbc&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=dhananjaya-hbc&theme=tokyonight&cache_bust=1" />
 </p>
 
 ---
