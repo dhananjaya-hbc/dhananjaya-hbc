@@ -43,10 +43,10 @@
 
 ---
 
-### 🔥 Streak Stats
+### ⚡ My GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhananjaya-hbc&theme=tokyonight&column=3&row=2" />
+  <img src="https://metrics.lecoq.io/dhananjaya-hbc?theme=tokyonight&base=header,activity,community,repositories,metadata&base.indepth=true&lines=true&habits=true&streak=true" />
 </p>
 
 ---
