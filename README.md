@@ -13,9 +13,10 @@
 <!-- ============================================ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=2nd+Year+IT+Undergraduate+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Bridging+Intelligence+%26+Imagination+%E2%9C%A8;Building+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=2nd+Year+IT+Undergraduate+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
   </a>
 </div>
+
 
 <!-- ============================================ -->
 <!--              PROFILE BADGES                   -->
