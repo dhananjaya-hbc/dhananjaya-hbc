@@ -1,13 +1,3 @@
-
----
-
-## 🐍 Snake Animation Setup
-
-Create this file in your profile repo:
-
-**`.github/workflows/snake.yml`**
-
-```yaml
 name: Generate Snake Animation
 
 on:
