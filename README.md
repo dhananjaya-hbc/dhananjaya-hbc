@@ -123,7 +123,9 @@ fun_fact: >
 
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake-dark.svg" width="100%" /> </picture> </div>
 <!-- ============================================ --><!-- SKILL PROGRESS BARS --><!-- ============================================ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="28" /> Skill Proficiency
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="Target" width="28" height="28"> Skill Proficiency
+
 <pre align="center">
 AI / Machine Learning  ████████████████████░░░░░  80%
 Python                 ████████████████████████░  95%
