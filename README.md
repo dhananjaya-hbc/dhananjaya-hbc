@@ -1,8 +1,11 @@
 <!-- ============================================ -->
 <!--        ANIMATED WAVE HEADER BANNER            -->
 <!-- ============================================ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=220&section=header&text=Dhananjaya%20Chamod&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Software%20Engineering%20Enthusiast&descSize=18&descAlignY=55&descColor=93c5fd" width="100%" />
+
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=200&section=header&text=Dhananjaya%20C&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
 </div>
 
 <!-- ============================================ -->
@@ -67,7 +70,7 @@ interests:
   - UI/UX Design Thinking
 
 achievements:
-  - 20+ Projects Completed
+  - 10+ Projects Completed
   - Open Source Contributor
   - Tech Blog Writer on Medium
 
@@ -106,9 +109,14 @@ fun_fact: >
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhananjaya-hbc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6&include_all_commits=true&count_private=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaya-hbc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=93c5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="49%" /> </div><br/><!-- Contribution Graph --><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjaya-hbc&custom_title=Dhananjaya's%20Contribution%20Graph&bg_color=0d1117&color=93c5fd&line=3b82f6&point=60a5fa&area_color=1e3a8a&area=true&hide_border=true&title_color=3b82f6" width="98%" /> </div>
 <!-- ============================================ --><!-- GITHUB TROPHIES --><!-- ============================================ -->
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> GitHub Trophies
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhananjaya-hbc&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" /> </div>
+<div align="center">
+
+  <img src="https://github-trophies.vercel.app/?username=dhananjaya-hbc&theme=algolia&no-frame=true&no-bg=true&column=7" />
+
+</div>
 
 <!-- ============================================ --><!-- CONTRIBUTION SNAKE --><!-- ============================================ -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" /> Contribution Snake
@@ -143,8 +151,7 @@ UI/UX Design           ██████████████████░
 <!-- ============================================ --><!-- SUPPORT ME --><!-- ============================================ -->
 
 <div align="center">
-☕ Support My Work
-<p>If you like my projects, consider giving them a ⭐ on GitHub!</p><a href="https://github.com/dhananjaya-hbc?tab=repositories"> <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-0d1117?style=for-the-badge&logo=github&logoColor=white" /> </a></div>
+ <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-0d1117?style=for-the-badge&logo=github&logoColor=white" /> </a></div>
 
 <!-- ============================================ --><!-- FOOTER WAVE --><!-- ============================================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=120&section=footer" width="100%" />
