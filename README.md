@@ -92,8 +92,10 @@ fun_fact: >
 
 <!-- ============================================ --><!-- GITHUB ANALYTICS --><!-- ============================================ -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaya-hbc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=93c5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhananjaya-hbc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaya-hbc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=93c5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&cache_seconds=1800" width="49%" />
 </div>
+
 
 
 
