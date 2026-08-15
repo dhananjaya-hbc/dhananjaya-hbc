@@ -91,14 +91,20 @@ fun_fact: >
 <table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br><sub><b>Git</b></sub> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /> <br><sub><b>GitHub</b></sub> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /> <br><sub><b>VS Code</b></sub> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /> <br><sub><b>Docker</b></sub> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> <br><sub><b>Linux</b></sub> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /> <br><sub><b>Vercel</b></sub> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /> <br><sub><b>Figma</b></sub> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /> <br><sub><b>C</b></sub> </td> </tr> </table></div>
 
 <!-- ============================================ --><!-- GITHUB ANALYTICS --><!-- ============================================ -->
-<!-- ============================================ -->
-<!--             GITHUB ANALYTICS                 -->
-<!-- ============================================ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaya-hbc&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=93c5fd&langs_count=6" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaya-hbc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e3a8a&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=93c5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="49%" />
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShenSandaru&theme=nord&hide_border=true&background=0D1117)](https://github.com/shensandaru)
+
+<!-- GitHub Stats Card -->
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shensandaru&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0&icon_color=36BCF7)](https://github.com/shensandaru)
+
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shensandaru&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0)](https://github.com/shensandaru)
+
+<!-- 3D Contribution Graph -->
+<img src="https://raw.githubusercontent.com/shensandaru/shensandaru/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
 </div>
 <br/>
 
