@@ -8,16 +8,17 @@
 
 </div>
 
-<!-- PROFILE BADGES & CONTRIBUTION COUNTER -->
+<!-- PROFILE BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dhananjaya-hbc&label=Profile%20Views&color=1e40af&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=1e40af&label=Contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fdhananjaya-hbc%3Fy%3Dlast&style=for-the-badge" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Contributions-250%2B-1e40af?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
   &nbsp;
   <a href="https://github.com/dhananjaya-hbc?tab=followers">
     <img src="https://img.shields.io/github/followers/dhananjaya-hbc?label=Followers&style=for-the-badge&color=1e40af&labelColor=0d1117" alt="Followers" />
   </a>
 </div>
+
 
 <br/>
 
