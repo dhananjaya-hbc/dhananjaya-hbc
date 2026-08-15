@@ -94,19 +94,25 @@ fun_fact: >
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShenSandaru&theme=nord&hide_border=true&background=0D1117)](https://github.com/shensandaru)
+<a href="https://github.com/dhananjaya-hbc">
+  <img src="https://streak-stats.demolab.com?user=dhananjaya-hbc&theme=nord&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</a>
 
 <!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shensandaru&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0&icon_color=36BCF7)](https://github.com/shensandaru)
+<a href="https://github.com/dhananjaya-hbc">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dhananjaya-hbc&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0&icon_color=36BCF7&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
 
 <!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shensandaru&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0)](https://github.com/shensandaru)
+<a href="https://github.com/dhananjaya-hbc">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhananjaya-hbc&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=E0E0E0" alt="Top Languages" />
+</a>
 
 <!-- 3D Contribution Graph -->
-<img src="https://raw.githubusercontent.com/shensandaru/shensandaru/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 </div>
-<br/>
+
 
 <!-- Contribution Activity Graph -->
 <div align="center">
