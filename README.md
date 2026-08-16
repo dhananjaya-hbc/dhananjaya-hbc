@@ -42,13 +42,5 @@
 <!-- ============================================ --><!-- CONTRIBUTION SNAKE --><!-- ============================================ -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" /> Contribution Analytics & Graph
 
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/dhananjaya-hbc">
-  <img src="https://streak-stats.demolab.com?user=dhananjaya-hbc&theme=nord&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</a>
-</div>
-
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake-dark.svg" width="100%" /> </picture> </div>
 
