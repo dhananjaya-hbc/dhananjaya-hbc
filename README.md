@@ -14,8 +14,13 @@
 
 ```
 </br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chamoddhananjaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" hspace="5" /></a><a href="https://medium.com/@dhananjayachamod0754" target="_blank"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff" alt="Medium" hspace="5" /></a><a href="https://github.com/dhananjaya-hbc" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" hspace="5" /></a><a href="mailto:dhananjayachamod0754@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" hspace="5" /></a><a href="https://www.dhananjayac.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio" hspace="5" /></a>
+</p>
 
-<div align="center"><a href="https://www.linkedin.com/in/chamoddhananjaya/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /> </a> &nbsp; <a href="https://medium.com/@dhananjayachamod0754" target="_blank"> <img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff" alt="Medium" /> </a> &nbsp; <a href="https://github.com/dhananjaya-hbc" target="_blank"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /> </a> &nbsp; <a href="mailto:dhananjayachamod0754@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /> </a> &nbsp; <a href="https://www.dhananjayac.me" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio" /> </a></div><br/><div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%" /> </div><br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%" />
+</p><br/>
 
 <!-- ============================================ -->
 <!--                 TECH STACK                   -->
