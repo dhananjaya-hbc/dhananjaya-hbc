@@ -1,10 +1,8 @@
-
-
 <!-- ============================================ -->
 <!--              ABOUT ME SECTION                 -->
 <!-- ============================================ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
+## About Me
 
 ```yaml
  - Student at the University of Moratuwa, Sri Lanka
@@ -23,7 +21,7 @@
 <!--                 TECH STACK                   -->
 <!-- ============================================ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -35,9 +33,4 @@
 
 </br>
 </br>
-
-<!-- ============================================ --><!-- CONTRIBUTION SNAKE --><!-- ============================================ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" /> Contribution Analytics & Graph
-
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/dhananjaya-hbc/dhananjaya-hbc/output/github-snake-dark.svg" width="100%" /> </picture> </div>
 
