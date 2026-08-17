@@ -1,8 +1,4 @@
-<!-- ============================================ --><!-- DEV QUOTE --><!-- ============================================ -->
 
-<div align="center">
- 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" /></div><br/>
 
 <!-- ============================================ -->
 <!--              ABOUT ME SECTION                 -->
